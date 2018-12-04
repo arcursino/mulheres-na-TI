@@ -1,4 +1,7 @@
 # mulheres-na-TI
+Ariana Cursino & Viviane Morais
+@arcursino & @vivianemorais
+
 Inserção das mulheres nos cursos de TI nos anos de 2009 à 2016
 
 Dados brutos no link:
